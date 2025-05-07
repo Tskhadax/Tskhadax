@@ -6,7 +6,8 @@ This is a special repository — its `README.md` is what you’re seeing right n
 ## 🚀 About Me
 I'm a developer passionate about building cool stuff, learning constantly, and sharing what I discover along the way.
 
-![f003abe6b5c9fd47bfc03bc76e8dabdb](https://github.com/user-attachments/assets/67383bb3-c2d4-4731-93e2-3b2560eb08a3)
+![09d6bfc03b197744925c51762fb97cbc](https://github.com/user-attachments/assets/c426eb9c-f9bc-4bb9-a9ad-f67892e3ea43)
+
 
 - 🛠️ Currently working on: [ 🚀 World Domination App – because why not ]
 - 📚 Always exploring: new tech, smart ideas, and clean code
