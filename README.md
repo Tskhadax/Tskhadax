@@ -19,7 +19,6 @@ Check out some of my highlighted work below — I keep the best stuff pinned!\
 ## 🌐 Let's Connect
 - [Facebook](https://www.facebook.com/profile.php?id=100047461265608)
 - [Instagram](https://www.instagram.com/tskhadax/)
-- [CodeWars](https://www.codewars.com/users/Tskhadax)
 
 ---
 
